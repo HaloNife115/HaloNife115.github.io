@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Swim is Amazing is Up and Running!"
 date:   2018-02-07 02:23:44 +0000
 categories: jekyll update
 ---
