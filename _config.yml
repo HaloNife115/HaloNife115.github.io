@@ -11,7 +11,7 @@ email: swimmingclear@swim_is_amazing.com
 description: > # this means to ignore newlines until "baseurl:"
   Swim is amazing. It is the absolute best sport, and anyone who disagrees will have to back it up. Good luck. You'll need it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "swim_is_amazing.com" # the base hostname & protocol for your site
+url: "swim_is_amazing.com." # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
